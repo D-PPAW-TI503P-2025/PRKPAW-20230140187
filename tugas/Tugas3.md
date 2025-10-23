@@ -20,4 +20,3 @@
 
 ### 5. GET /api/reports/daily
 ![REPORTS-DAILY](./screenshot/REPORTS%20DAILY.png)
->>>>>>> 5bb86e0 (Update project to latest version and clean structure)
